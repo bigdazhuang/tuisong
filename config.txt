@@ -2,7 +2,7 @@
 "app_id": "wx250a54b2989bf6a1",
 "app_secret": "f68f088ae62b14141da87c495ef13fe1",
 "template_id": "oRztIAO3Qf6A6NbUHL6LbWKSV7Wo7lGHUQmS_ZGy1po",
-"user": ["oSfCZ5pBbd0W3278JkWjeXpOV2Kc"],
+"user": ["oSfCZ5pBbd0W3278JkWjeXpOV2Kc","oSfCZ5sP2KL3MEMgkTvRdno8Xzxc"],
 "weather_key": "7e7aa4f9d6c742ddbaea9a4170071b44",
 "tian_api": " ",
 "region": "鹿邑县",
